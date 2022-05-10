@@ -8,6 +8,7 @@
 // recurIndex(null) ➞ {}
 
 
+
 function recurIndex(string) {
 let chars = string.split("");
 let temp = "";
