@@ -2,6 +2,7 @@
 // Ex.5 Implementation filter-find-slice-splice-some
 
 
+
 //filter
 
 let fruits = ['apple', 'banana', 'grapes', 'mango', 'orange'];
